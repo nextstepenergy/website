@@ -7,6 +7,9 @@
         <loc>/product.html</loc>
     </url>
     <url>
+        <loc>/shopping-cart.html</loc>
+    </url>
+    <url>
         <loc>/team.html</loc>
     </url>
 </urlset>
